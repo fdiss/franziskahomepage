@@ -1,10 +1,9 @@
 ---
 widget: featured
-widget_id: Featured Publications
+widget_id: example
 weight: 80
 title: Featured Publications
 subtitle: ""
-active: false
 content:
   page_type: publication
   count: 0
