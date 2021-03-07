@@ -6,28 +6,29 @@ title: Franziska Disslbacher
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Candidate in Economics and Social Sciences
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
+- name: Vienna University of Econoimcs and Business
+  url: https://wu.ac.at/
 
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include distributed robotics, mobile computing and programmable matter.
 
 # Interests to show in About widget
 interests:
-- Hallo
-- Computational Linguistics
-- Information Retrieval
+- Labour Econoimcs, Public Economics, Economic Geography, Demography
+- Income and Wealth Distribution
+- Social Mobility
+
 
 # Education to show in About widget
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
+  - course: PhD in Economics and Social Sciences
+    institution: WU Vienna
+    year: since 2016
   - course: MEng in Artificial Intelligence
     institution: Massachusetts Institute of Technology
     year: 2009
@@ -45,13 +46,13 @@ social:
   link: '/#contact'
 - icon: twitter
   icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
+  link: https://twitter.com/f_disslbacher
 - icon: graduation-cap  # Alternatively, use `google-scholar` icon from `ai` icon pack
   icon_pack: fas
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
+  link: https://scholar.google.com/citations?user=M9N1JbAAAAAJ&hl=de
 - icon: github
   icon_pack: fab
-  link: https://github.com/gcushen
+  link: https://github.com/fidssl
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/
@@ -67,7 +68,7 @@ social:
 email: ""
 
 # Highlight the author in author lists? (true/false)
-highlight_name: false
+highlight_name: true
 ---
 
 Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
