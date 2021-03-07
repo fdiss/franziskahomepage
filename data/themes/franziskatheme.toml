@@ -11,11 +11,11 @@ primary = "#5b5b5b"
 menu_primary = "#fff"
 menu_text = "#b67171"
 menu_text_active = "#b67171"
-menu_title = "#b67171
+menu_title = "#b67171"
 
 # Home sections
-home_section_odd = "rgb(255, 255, 255)"
-home_section_even = "rgb(247, 247, 247)"
+home_section_odd = "#b67171"
+home_section_even = "#b67171"
 
 [dark]
   link = "#b67171"
