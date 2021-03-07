@@ -1,6 +1,6 @@
 ---
 abstract: This is the abstract
-slides: example
+slides: ""
 url_pdf: https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf
 publication_types:
   - "3"
@@ -11,7 +11,6 @@ authors:
   - Patrick Mokre
   - Matthias Schnetzer
 summary: We study the distribution of wealth at the top.
-url_dataset: ""
 url_project: ""
 author_notes:
   - First author
@@ -34,7 +33,7 @@ image:
   caption: ""
   focal_point: ""
   preview_only: false
-  filename: ""
+  filename: "ontopfeature.jpg"
 publishDate: 2017-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
