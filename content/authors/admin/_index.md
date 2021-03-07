@@ -71,7 +71,7 @@ email: ""
 highlight_name: true
 ---
 
-Welcome! I am a PhD Candidate in Econmics at Vienna University of Economics and Business. My work centeres around the distribution of income and wealth and the causes and consequences of socio-economic inequalities, with a special emphasis on inter/intragenerational aspects and spatial inequalitites. 
+THIS PAGE IS WORK IN PROGRESS; CURRENTLY BEING TESTED! IT MAY CONTAIN INFORMATION THAT IS INCOMPLETE - OR - NOT CORRECT! THE FINAL PAGE WILL BE BUBLISHED WITHIN A COUPLE OF HOURS! TAHNK YOU  I am a PhD Candidate in Econmics at Vienna University of Economics and Business. My work centeres around the distribution of income and wealth and the causes and consequences of socio-economic inequalities, with a special emphasis on inter/intragenerational aspects and spatial inequalitites. 
 
 My work has been published, for instance, in the Journal of the Royal Statistical Society Series A: Statistics in Society, Ecological Ecoomics and the Cambridge Journal of Regions, Economy and Society. 
 
