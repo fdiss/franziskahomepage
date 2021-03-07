@@ -30,7 +30,7 @@ image:
   caption: "Source: Own calculations"
   focal_point: ""
   preview_only: false
-  filename: ontopfeature.jpg
+  filename: featured.jpg
 publishDate: 2019-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
