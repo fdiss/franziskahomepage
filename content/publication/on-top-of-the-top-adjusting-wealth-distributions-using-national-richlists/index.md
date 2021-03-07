@@ -15,6 +15,7 @@ image:
   filename: bildschirmfoto-2021-03-07-um-20.13.54.png
   focal_point: Center
   preview_only: false
+  alt_text: Method
 date: 2021-03-07T19:10:51.220Z
 ---
 [Download most recent version here](https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf). 
