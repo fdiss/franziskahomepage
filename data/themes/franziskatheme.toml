@@ -5,10 +5,10 @@ name = "franziskatheme"
 light = true
 
 # Primary
-primary = "#5b5b5b"
+primary = "#e7e6e1"
 
 # Menu
-menu_primary = "#fff"
+menu_primary = "#b67171"
 menu_text = "#b67171"
 menu_text_active = "#b67171"
 menu_title = "#b67171"
