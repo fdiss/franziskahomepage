@@ -1,36 +1,38 @@
 ---
-title: On Top of the Top
-subtitle: Adjusting Wealth Distributions using national richlists
+publication_types:
+  - "3"
 authors:
   - admin
   - and co-authors
-author_notes:
-  - First authorship
-  - Equal contributions
-doi: ""
-publication_short: "In *INEQ Working Paper #20*"
 abstract: this is the abstract
-tags: []
-projects: []
+draft: true
 slides: ""
 url_pdf: https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf
-publication_types:
-  - "3"
-image:
-  caption: "Source: Own calculations"
-  focal_point: Left
-  preview_only: false
-  filename: ontopfeature.jpg
 summary: Short abstract.
 url_dataset: tba
 url_project: ""
+author_notes:
+  - First authorship
+  - Equal contributions
+publication: "In *Research Institute Economics of Inequality Working Papers #20*"
+publication_short: "In *INEQ Working Paper #20*"
 url_source: ""
 url_video: ""
-publication: "In *Research Institute Economics of Inequality Working Papers #20*"
 featured: true
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
+title: On Top of the Top
+subtitle: Adjusting Wealth Distributions using national richlists
+tags: []
+projects:
+  - example
+image:
+  caption: "Source: Own calculations"
+  focal_point: ""
+  preview_only: true
+  filename: ontopfeature.jpg
 publishDate: 2019-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
+doi: ""
 ---
