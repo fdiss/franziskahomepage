@@ -8,7 +8,7 @@ author_notes:
   - First authorship
   - Equal contributions
 doi: ""
-publication_short: In *ICW*
+publication_short: "In *INEQ Working Paper #20*"
 abstract: this is the abstract
 tags: []
 projects:
@@ -27,7 +27,7 @@ url_dataset: tba
 url_project: ""
 url_source: ""
 url_video: ""
-publication: In *Research Institute Economics of Inequality Working Papers*
+publication: "In *Research Institute Economics of Inequality Working Papers #20*"
 featured: true
 date: 2013-07-01T00:00:00.000Z
 url_slides: ""
