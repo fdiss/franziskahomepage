@@ -20,22 +20,21 @@ twitter: ''
 
 # Contact (edit or remove options as required)
 
-email: test@example.org
-phone: 888 888 88 88
+email: franziska.disslbacher@wu.ac.at
+phone: +43 659 83 13 213
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
-  country_code: US
+  street: Vienna Chamber of Labour
+  city: Vienna
+  region: Vienna
+  postcode: '1040'
+  country: Austria
+  country_code: AT
 coordinates:
-  latitude: '37.4275'
-  longitude: '-122.1697'
-directions: Enter Building 1 and take the stairs to Office 200 on Floor 2
+  latitude: '48.194842639050826'
+  longitude: ' 16.376592745833193'
+directions: Main entrance
 office_hours:
-  - 'Monday 10:00 to 13:00'
-  - 'Wednesday 09:00 to 10:00'
+  - Sign up via Calendly
 appointment_url: 'https://calendly.com'
 contact_links:
   - icon: twitter
