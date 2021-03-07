@@ -1,6 +1,6 @@
 ---
 widget: featured
-widget_id: example
+widget_id: Featured Publications
 weight: 80
 title: Featured Publications
 subtitle: ""
@@ -19,5 +19,5 @@ design:
   view: 3
   columns: ""
   background:
-    image: /assets/media/ontopfeature.jpg
+    image: ""
 ---
