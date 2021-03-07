@@ -5,7 +5,7 @@ authors:
   - admin
   - and co-authors
 abstract: this is the abstract
-draft: false
+draft: true
 slides: ""
 url_pdf: https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf
 summary: Short abstract.
