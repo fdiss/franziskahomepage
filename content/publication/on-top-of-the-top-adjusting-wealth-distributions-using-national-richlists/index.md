@@ -17,6 +17,5 @@ image:
   preview_only: false
 date: 2021-03-07T19:10:51.220Z
 ---
-``**[`Downloa here`](https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf)``**
-
-``
+Download here 
+[Duck Duck Go](https://duckduckgo.com).
