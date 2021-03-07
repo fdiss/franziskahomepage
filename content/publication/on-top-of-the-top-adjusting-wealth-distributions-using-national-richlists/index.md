@@ -34,7 +34,7 @@ tags: []
 projects:
   - example
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Source: Own calculations"
   focal_point: ""
   preview_only: false
   filename: ontopfeature.jpg
