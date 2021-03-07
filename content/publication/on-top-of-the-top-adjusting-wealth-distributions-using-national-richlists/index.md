@@ -18,7 +18,7 @@ publication_types:
   - "3"
 image:
   caption: "Source: Own calculations"
-  focal_point: left
+  focal_point: Left
   preview_only: false
   filename: ontopfeature.jpg
 summary: Short abstract.
