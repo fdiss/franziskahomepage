@@ -5,13 +5,14 @@ name = "franziskatheme"
 light = true
 
 # Primary
-primary = "#fff"
+primary = "#000000"
 
 # Menu
-menu_primary = "#b67171"
-menu_text = "#b67171"
-menu_text_active = "#b67171"
-menu_title = "#b67171"
+menu_primary = "#000000"
+menu_text = "#000000"
+menu_text_active = "#000000"
+menu_title = "#000000"
+
 
 #Backgrounds
 background = "#f0e5d8"
@@ -24,5 +25,5 @@ dark_background = "#f0e5d8"
 dark_home_section_odd = "#f0e5d8"
 dark_home_section_even = "#f0e5d8"
 
-link = "#b67171"
-link_hover = "#b67171"
+link = "#000000"
+link_hover = "#000000"
