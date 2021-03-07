@@ -2,6 +2,7 @@
 widget: featured
 widget_id: example
 weight: 80
+active: true
 title: Featured Publications
 subtitle: ""
 content:
