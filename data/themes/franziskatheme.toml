@@ -5,7 +5,7 @@ name = "franziskatheme"
 light = true
 
 # Primary
-primary = "#e7e6e1"
+primary = "#fff"
 
 # Menu
 menu_primary = "#b67171"
