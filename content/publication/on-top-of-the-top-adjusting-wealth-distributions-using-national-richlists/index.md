@@ -18,7 +18,7 @@ publication_types:
   - "3"
 image:
   caption: "Source: Own calculations"
-  focal_point: ""
+  focal_point: left
   preview_only: false
   filename: ontopfeature.jpg
 summary: Short abstract.
@@ -34,6 +34,3 @@ publishDate: 2019-01-01T00:00:00.000Z
 url_poster: ""
 url_code: ""
 ---
-
-
-Supplementary notes can be added here, including [code, math, and images](https://wowchemy.com/docs/writing-markdown-latex/).
