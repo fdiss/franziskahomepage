@@ -1,40 +1,47 @@
----
-widget: experience
-widget_id: Teaching Activities
-headless: true
-weight: 40
-title: Teaching
-subtitle: null
-date_format: Jan 2006
 
- # Experiences.
- #   Add/remove as many `experience` items below as you like.
- #   Required fields are `title`, `company`, and `date_start`.
- #   Leave `date_end` empty if it's your current employer.
- #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
-  experience:
-    - title: CEO
-      company: GenCoin
-      company_url: ''
-      location: California
-      date_start: '2017-01-01'
-      date_end: ''
-      description: |2-
-          Responsibilities include:
++++
+# Experience widget.
+widget = "experience"  # See https://sourcethemes.com/academic/docs/page-builder/
+widget_id = teaching_experience
+headless = true  # This file represents a page section.
+active = true  # Activate this widget? true/false
+weight = 40  # Order that this section will appear.
 
-          * Analysing
-          * Modelling
-          * Deploying
+title = "Teaching"
+subtitle = ""
 
-  #  - title: Professor
-  #    company: University X
-  #    company_url: ''
-  #    location: California
-  #    date_start: '2016-01-01'
-  #    date_end: '2016-12-31'
-  #    description: Taught electronic engineering and researched semiconductor physics.
+# Date format for experience
+#   Refer to https://sourcethemes.com/academic/docs/customization/#date-format
+date_format = "Jan 2006"
 
+# Experiences.
+#   Add/remove as many `[[experience]]` blocks below as you like.
+#   Required fields are `title`, `company`, and `date_start`.
+#   Leave `date_end` empty if it's your current employer.
+#   Begin/end multi-line descriptions with 3 quotes `"""`.
+[[experience]]
+  title = "CEO"
+  company = "GenCoin"
+  company_url = ""
+  location = "California"
+  date_start = "2017-01-01"
+  date_end = ""
+  description = """
+  Responsibilities include:
+  
+  * Analysing
+  * Modelling
+  * Deploying
+  """
 
-design:
-  columns: ""
----
+[[experience]]
+  title = "Professor"
+  company = "University X"
+  company_url = ""
+  location = "California"
+  date_start = "2016-01-01"
+  date_end = "2016-12-31"
+  description = """Taught electronic engineering and researched semiconductor physics."""
+
++++
+
