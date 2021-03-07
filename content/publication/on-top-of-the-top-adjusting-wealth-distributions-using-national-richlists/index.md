@@ -5,7 +5,7 @@ authors:
   - admin
   - and co-authors
 abstract: this is the abstract
-draft: true
+draft: false
 slides: ""
 url_pdf: https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf
 summary: Short abstract.
@@ -14,8 +14,8 @@ url_project: ""
 author_notes:
   - First authorship
   - Equal contributions
-publication: "In "
-publication_short: "In "
+publication: "In *Research Institute Economics of Inequality Working Papers #20*"
+publication_short: "In *INEQ Working Paper #20*"
 url_source: ""
 url_video: ""
 featured: true
