@@ -14,8 +14,8 @@ url_project: ""
 author_notes:
   - First authorship
   - Equal contributions
-publication: "In *Research Institute Economics of Inequality Working Papers #20*"
-publication_short: "In *INEQ Working Paper #20*"
+publication: "In "
+publication_short: "In "
 url_source: ""
 url_video: ""
 featured: true
