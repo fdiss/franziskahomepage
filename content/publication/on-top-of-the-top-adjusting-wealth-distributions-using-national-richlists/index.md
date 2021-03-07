@@ -11,9 +11,8 @@ doi: ""
 publication_short: "In *INEQ Working Paper #20*"
 abstract: this is the abstract
 tags: []
-projects:
-  - example
-slides: example
+projects: []
+slides: ""
 url_pdf: https://epub.wu.ac.at/7908/1/WP_20_adjusiting_wealth_distributions_using_national_rich_lists.pdf
 publication_types:
   - "3"
