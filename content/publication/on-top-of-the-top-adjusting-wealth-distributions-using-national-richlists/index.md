@@ -5,7 +5,7 @@ publication_types:
   - "3"
 authors: []
 publication: "INEQ Working Paper Series #20"
-draft: true
+draft: false
 featured: true
 tags:
   - Wealth
