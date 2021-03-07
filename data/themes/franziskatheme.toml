@@ -20,9 +20,9 @@ background = "#f0e5d8"
 home_section_odd = "#f0e5d8"
 home_section_even = "#f0e5d8"
 
-dark_background = ""
-dark_home_section_odd = ""
-dark_home_section_even = ""
+dark_background = "#f0e5d8"
+dark_home_section_odd = "#f0e5d8"
+dark_home_section_even = "#f0e5d8"
 
 link = "#b67171"
 link_hover = "#b67171"
