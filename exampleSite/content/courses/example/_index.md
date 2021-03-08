@@ -1,8 +1,8 @@
 ---
-title: 📊 Learn Data Science
-linkTitle: Data Science
+title: Piketty 2.0: Ideen für mehr Verteilungsgerechtigkeit
+linkTitle: Piketty 2.0
 summary: An example of using Wowchemy's Book layout for publishing online courses.
-date: '2021-01-24'
+date: '2020-02-15'
 type: book
 ---
 
